@@ -6,6 +6,7 @@ import Footer from './Footer';
 function MainHeader() {
     return (
         <>
+        {/* header-footer */}
             <Navbar />
             <Outlet />
             <Footer />
