@@ -27,7 +27,7 @@ import Cautusdescripition from './Pages/Cautusdescripition';
 import BlogContent from './Pages/BlogContent';
 import Privacy from './Pages/Privacy';
 import MainHeader from './Components/MainHeader';
-import Gardendescripition from './Pages/gardendescripition';
+import Gardendescripition from './Pages/Gardendescripition';
 
 function App() {
 

@@ -36,9 +36,8 @@ function About() {
         <h5>Social Change</h5>
         <p>We will invest in the power of sports to bring social changes.Sports provide a powerful platform to advance social changes.Our purpose of transforming the Maldivian Society <br />can only be achieved through inclusivity of all members of the society and the <br />sustainability of the environment in which we live.</p>
         <h5>Joy</h5>
-        <p>Sonee Sports will invest in enhancing the lives of a healthy nation by helping people experience the joy of celebrating life. We will redefine social gatherings and healthy <br/>eating 2030 initiative & Goals</p>
+        <p>Sonee Sports will invest in enhancing the lives of a healthy nation by helping people experience the joy of celebrating life. We will redefine social gatherings and healthy <br />eating 2030 initiative & Goals</p>
       </div>
-
       <ImageGallery />
       <Social />
     </>
