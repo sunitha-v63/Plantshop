@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal1.png",
+      "wishlist": false
+    },
+    {
+      "id": 2,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal2.png",
+      "wishlist": false
+    },
+    {
+      "id": 3,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal3.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 4,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal4.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 5,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal5.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 6,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal6.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 7,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal7.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 8,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal8.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 9,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal9.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal10.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 11,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal11.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 12,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal12.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 13,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal13.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 14,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/herbal14.png",
+      "wishlist": false
+    }
+]

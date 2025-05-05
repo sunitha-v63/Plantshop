@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus1.png",
+      "wishlist": false
+    },
+    {
+      "id": 2,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus2.png",
+      "wishlist": false
+    },
+    {
+      "id": 3,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus3.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 4,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus4.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 5,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus5.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 6,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus6.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 7,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus7.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 8,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus8.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 9,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus9.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus10.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 11,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus11.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 12,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus12.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 13,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus13.png",
+      "wishlist": false
+    }
+    ,
+    {
+      "id": 14,
+      "name": "Ficus Lyrata",
+      "price": 140,
+      "image": "/Assets/Images/cactus14.png",
+      "wishlist": false
+    }
+]
