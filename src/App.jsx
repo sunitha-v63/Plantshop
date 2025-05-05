@@ -17,7 +17,6 @@ import Deskdescripition from './Pages/Deskdescripition';
 import ModernPots from './Pages/ModernPots';
 import Moderndescripition from './Pages/Moderndescripition';
 import GardenEquipments from './Pages/GardenEquipments';
-import Gardendescripition from './Pages/Gardendescripition';
 import Herbal from './Pages/Herbal';
 import Index from './Pages/Index';
 import Herbaldescripition from './Pages/Herbaldescripition';
@@ -28,6 +27,7 @@ import Cautusdescripition from './Pages/Cautusdescripition';
 import BlogContent from './Pages/BlogContent';
 import Privacy from './Pages/Privacy';
 import MainHeader from './Components/MainHeader';
+import Gardendescripition from './Pages/gardendescripition';
 
 function App() {
 
