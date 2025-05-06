@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import CheckoutSteps from '../Components/CheckoutSteps';
-import visa from "..assets/Image/visa.png"
+import visa from "../assets/Image/visa.png"
 import mastercard from '../assets/Image/mastercard.png';
 import { useNavigate } from 'react-router-dom';
 
