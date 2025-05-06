@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import CheckoutSteps from '../Components/CheckoutSteps';
-import visa from "../assets/Image/Visa.png"
+import visa from "..assets/Image/visa.png"
 import mastercard from '../assets/Image/mastercard.png';
 import { useNavigate } from 'react-router-dom';
 
@@ -234,7 +234,7 @@ function Cart() {
                                         <label htmlFor="creditCard">Credit Card</label>
                                     </div>
                                     <div>
-                                        <img src={visa} alt="Visa" style={{ height: '60px', marginRight: '5px' }} />
+                                        <img src={visa} alt="visa" style={{ height: '60px', marginRight: '5px' }} />
                                         <img src={mastercard} alt="MasterCard" style={{ height: '30px' }} />
                                     </div>
                                 </div>
